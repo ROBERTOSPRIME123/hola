@@ -8,7 +8,7 @@
  */
 using System;
 
-namespace CodigoBarras_014_
+namespace pe11
 {
 	class Program
 	{
